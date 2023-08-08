@@ -7,7 +7,7 @@ Flask-Cors==3.0.10
 gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
-joblib==1.1.0
+joblib==1.2.0
 MarkupSafe==2.0.1
 numpy==1.22.2
 scikit-learn==1.0.2
